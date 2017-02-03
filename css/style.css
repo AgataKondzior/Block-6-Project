@@ -11,27 +11,27 @@ and open the template in the editor.
 
 @font-face {
     font-family:DancingScriptRegular;
-    src:url:("../fonts/DancingScriptRegular.eot");
+    src:url("../fonts/DancingScriptRegular.eot");
 }
     
 @font-face {
     font-family:ASENINE_0;
-    src:url:("../fonts/ASENINE_0.ttf");
+    src:url("../fonts/ASENINE_0.ttf");
 }
     
 @font-face {
     font-family:GOTHIC_0;
-    src:url:("../fonts/GOTHIC_0.ttf");
+    src:url("../fonts/GOTHIC_0.ttf");
 }
     
 @font-face {
     font-family:RAGE;
-    src:url:("../fonts/RAGE.ttf");
+    src:url("../fonts/RAGE.ttf");
 }
     
 @font-face {
     font-family:arial;
-    src:url:("../fonts/arrial.ttf");
+    src:url("../fonts/arrial.ttf");
 }
 
 
