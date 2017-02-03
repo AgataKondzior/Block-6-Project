@@ -53,10 +53,12 @@ and open the template in the editor.
 
 .top_menu {
 	list-style:none;
+	display:inline;
 }
 
 .header {
 	list-style:none;
+	display:inline;
 }
 
 .main_content {
@@ -66,9 +68,11 @@ and open the template in the editor.
 
 .service {
 	list-style:none;
+	display:inline;
 }
 
 .footer {
+	position: center;
 }
 	
 
