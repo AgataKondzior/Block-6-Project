@@ -9,7 +9,7 @@ and open the template in the editor.
 */
 
 
-@font-face {
+/*@font-face {
     font-family:DancingScriptRegular;
     src:url("../fonts/DancingScriptRegular.eot");
 }
@@ -33,9 +33,9 @@ and open the template in the editor.
     font-family:arial;
     src:url("../fonts/arrial.ttf");
 }
+*/
 
-
-.container {
+body {
 	background-image: url("images/background.png");
 	position: absolute;
 } 
