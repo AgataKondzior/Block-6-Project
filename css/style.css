@@ -30,11 +30,11 @@ and open the template in the editor.
     src:url:("../fonts/arrial.ttf");
 
 
-	.container {
+.container {
 	background-image: url("images/background.png");
 } 
 
-    .nav_bar {
+.nav_bar {
 }
 
 .logo {
