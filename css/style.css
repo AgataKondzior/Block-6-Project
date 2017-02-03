@@ -15,22 +15,22 @@ and open the template in the editor.
 }
     
 @font-face {
-    font-family:ASENINE_0;
+    font-family:Asenine_0;
     src:url:("../fonts/ASENINE_0.ttf");
 }
     
 @font-face {
-    font-family:GOTHIC_0;
+    font-family:Gothic_0;
     src:url:("../fonts/GOTHIC_0.ttf");
 }
     
 @font-face {
-    font-family:RAGE;
+    font-family:Rage;
     src:url:("../fonts/RAGE.ttf");
 }
     
 @font-face {
-    font-family:arial;
+    font-family:Arial;
     src:url:("../fonts/arrial.ttf");
 }
 
@@ -54,6 +54,7 @@ body {
 .top_menu {
 	list-style:none;
 	display:inline;
+	font-family: Tahoma;
 }
 
 .header {
