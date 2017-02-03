@@ -37,6 +37,7 @@ and open the template in the editor.
 
 .container {
 	background-image: url("images/background.png");
+	position: absolute;
 } 
 
 .nav_bar {
