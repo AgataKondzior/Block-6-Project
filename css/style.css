@@ -102,7 +102,7 @@ Author     : Agata Kondzior */
 
 .header {
 	list-style:none;
-	position: relative;
+	position: absolute;
 	display: inline-block;
 	font-family: "Freestyle Script";
 	color:white;
