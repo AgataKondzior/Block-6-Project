@@ -70,13 +70,13 @@ Author     : Agata Kondzior */
 .logo > ul > li {
 	font-family: "Monotype Corsiva";
 	display: inline-block;
-	margin-left: 60px;
+	margin-left: 80px;
 }
 
 .top_menu > ul > li > a {
 	text-decoration: none;
 	color: white;
-	margin: 20px;
+	margin: 30px;
 	
 }
 
