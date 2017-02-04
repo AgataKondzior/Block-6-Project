@@ -82,6 +82,9 @@ Author     : Agata Kondzior */
 	
 }
 
+.top_menu > ul > li > a:hover {
+}
+
 .top_menu {
 	
 	display:inline-block;
