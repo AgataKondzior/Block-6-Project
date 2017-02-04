@@ -69,6 +69,7 @@ font-family: Rage;
 .header {
 	list-style:none;
 	display:inline-block;
+	font-family: DancingScriptRegular;
 }
 
 .main_content {
