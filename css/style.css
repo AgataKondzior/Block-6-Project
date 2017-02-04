@@ -61,14 +61,14 @@ Author     : Agata Kondzior */
 }
 
 .logo > h4 {
-	font-family:MonotypeCorsiva;
+	font-family: "Monotype Corsiva";
 	color: white;
 	display: inline-block;
 	margin-left: 10px;
 }
 
 .logo > ul > li {
-	font-family: MonotypeCorsiva;
+	font-family: "Monotype Corsiva";
 	display: inline-block;
 	margin-left: 60px;
 }
@@ -98,7 +98,7 @@ Author     : Agata Kondzior */
 .header {
 	list-style:none;
 	display:inline;
-	font-family: FreestyleScript;
+	font-family: "Freestyle Script";
 	color:white;
 	height:450px;
 }
@@ -111,7 +111,7 @@ Author     : Agata Kondzior */
 }
 
 .main_content > h3 {
-	font-family: DancingScriptRegular;
+	font-family: "Dancing Script Regular";
 	color: white;
 
 }
@@ -123,7 +123,7 @@ Author     : Agata Kondzior */
 }
 
 .service_text {
-font-family: DancingScriptRegular;
+font-family: "Dancing Script Regular";
 }
 
 .service_par {
