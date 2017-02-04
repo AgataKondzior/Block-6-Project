@@ -57,6 +57,11 @@ and open the template in the editor.
 	font-family: Rage;
 	color: white;
 	display: inline;
+	margin-top: 20px;
+}
+
+.logo > ul > li {
+	display:block;
 }
 
 .top_menu {
@@ -65,7 +70,7 @@ and open the template in the editor.
 	font-family: Tahoma;
 }
 
-ul {
+.top_menu > ul {
 	font-family: Rage;
 	color: white;
 	list-style: none;
