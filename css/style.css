@@ -44,7 +44,7 @@ Author     : Agata Kondzior */
 }
 
 .logo {
-	font-family: MonotypeCorsiva;
+	
 	width:100%;
 	text-align:left;
 	height:60px;
@@ -52,7 +52,7 @@ Author     : Agata Kondzior */
 }
 
 .logo > p {
-	font-family: Gothic_0;
+	font-family: Rage;
 	font-size:30px;
 	color: white;
 	margin-top: 0px;
