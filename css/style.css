@@ -44,7 +44,8 @@ Author     : Agata Kondzior */
 	font-family: Rage;
 	color: white;
 	display: inline;
-	margin-top: 20px;
+	margin-top: 50px;
+	padding-top: 20px;
 }
 
 .logo > p > h5 {
