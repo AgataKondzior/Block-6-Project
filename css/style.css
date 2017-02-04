@@ -11,35 +11,35 @@ and open the template in the editor.
 
 @font-face {
     font-family:DancingScriptRegular;
-    src:url:("../fonts/DancingScriptRegular.eot");
+    src:url("../fonts/DancingScriptRegular.eot");
 }
     
 @font-face {
     font-family:Asenine_0;
-    src:url:("../fonts/ASENINE_0.ttf");
+    src:url("../fonts/ASENINE_0.ttf");
 }
     
 @font-face {
     font-family:Gothic_0;
-    src:url:("../fonts/GOTHIC_0.ttf");
+    src:url("../fonts/GOTHIC_0.ttf");
 }
     
 @font-face {
     font-family:Rage;
-    src:url:("../fonts/RAGE.ttf");
+    src:url("../fonts/RAGE.ttf");
 }
     
 @font-face {
     font-family:Arial;
-    src:url:("../fonts/arrial.ttf");
+    src:url("../fonts/arrial.ttf");
 }
 
 
 .container {
-	background-image: url:("images/background.png");
-	height: 1650px;
-	width: auto;
-	margin: auto;
+	background-image: url("images/background.png");
+	height: auto;
+	width: 1650px;
+	margin: 0 auto;
 }	
 	
 
