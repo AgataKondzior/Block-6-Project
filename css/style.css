@@ -40,11 +40,15 @@ Author     : Agata Kondzior */
 	display: inline;	
 }
 
-.logo {
+.logo > p {
 	font-family: Rage;
 	color: white;
 	display: inline;
 	margin-top: 20px;
+}
+
+.logo > p > h5 {
+	font-family:DancingScriptRegular;
 }
 
 .logo > ul > li {
@@ -52,9 +56,9 @@ Author     : Agata Kondzior */
 }
 
 .top_menu {
-	list-style:none;
+	
 	display:inline;
-	font-family: Tahoma;
+	
 }
 
 .top_menu > ul {
