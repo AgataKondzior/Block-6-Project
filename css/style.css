@@ -5,7 +5,7 @@ and open the template in the editor.
 Created on : 2017-01-30, 22:43:17
 Author     : Agata Kondzior */
 
-@font-face {
+/*@font-face {
     font-family:DancingScriptRegular;
     src:url("../fonts/DancingScriptRegular.eot");
 }    
@@ -24,7 +24,7 @@ Author     : Agata Kondzior */
 @font-face {
     font-family:Arial;
     src:url("../fonts/arrial.ttf");
-}
+}*/
 
 .container {
 	
