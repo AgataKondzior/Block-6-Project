@@ -37,7 +37,7 @@ and open the template in the editor.
 
 .container {
 	
-	background-image: url(images/background.png);
+	background-image: url(".../images/background.png");
 	height: auto;
 	width: 1650px;
 	margin: 0 auto;
@@ -72,7 +72,7 @@ font-family: Rage;
 }
 
 .main_content {
-	background-image: url("images/background_light.png");
+	background-image: url(images/background_light.png);
 
 }
 
