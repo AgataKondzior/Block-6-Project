@@ -2,38 +2,29 @@
 To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
-*/
-/* 
-    Created on : 2017-01-30, 22:43:17
-    Author     : Agata Kondzior
-*/
-
+Created on : 2017-01-30, 22:43:17
+Author     : Agata Kondzior */
 
 @font-face {
     font-family:DancingScriptRegular;
     src:url("../fonts/DancingScriptRegular.eot");
-}
-    
+}    
 @font-face {
     font-family:Asenine_0;
     src:url("../fonts/ASENINE_0.ttf");
-}
-    
+}    
 @font-face {
     font-family:Gothic_0;
     src:url("../fonts/GOTHIC_0.ttf");
-}
-    
+}    
 @font-face {
     font-family:Rage;
     src:url("../fonts/RAGE.ttf");
-}
-    
+}   
 @font-face {
     font-family:Arial;
     src:url("../fonts/arrial.ttf");
 }
-
 
 .container {
 	
@@ -45,12 +36,8 @@ and open the template in the editor.
     	
 }	
 	
-
-
 .nav_bar {
-	display: inline;
-	
-	
+	display: inline;	
 }
 
 .logo {
@@ -61,7 +48,7 @@ and open the template in the editor.
 }
 
 .logo > ul > li {
-	display:block;
+	display:inline;
 }
 
 .top_menu {
