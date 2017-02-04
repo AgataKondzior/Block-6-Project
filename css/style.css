@@ -46,9 +46,7 @@ and open the template in the editor.
 
 
 .nav_bar {
-	position: left;
-	top:0;
-	display: inline-block;
+	display: inline;
 	list-style: none;
 	
 }
