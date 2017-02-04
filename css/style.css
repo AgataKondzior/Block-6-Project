@@ -44,13 +44,14 @@ Author     : Agata Kondzior */
 }
 
 .logo {
+	font-family: MonotypeCorsiva;
 }
 
 .logo > p {
-	font-family: MonotypeCorsiva;
+	
 	color: white;
 	margin-top: 0px;
-	padding-top: 10px;
+	padding-top: 20px;
 	display: inline-block;
 }
 
@@ -63,7 +64,7 @@ Author     : Agata Kondzior */
 
 .logo > ul > li {
 	font-family:MonotypeCorsiva;
-	display:inline-block;
+	display: inline-block;
 	margin-left: 40px;
 }
 
