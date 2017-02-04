@@ -49,6 +49,7 @@ Author     : Agata Kondzior */
 	color: white;
 	margin-top: 0px;
 	padding-top: 20px;
+	display: inline-block;
 }
 
 .logo > p > h5 {
