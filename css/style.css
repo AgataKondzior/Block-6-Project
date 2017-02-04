@@ -73,8 +73,9 @@ Author     : Agata Kondzior */
 	margin-left: 60px;
 }
 
-.top_menu > ul > li > a {
-	text-decoration: none;	
+.logo > ul > li > a {
+	text-decoration: none;
+	color: white;
 }
 
 .top_menu {
