@@ -82,6 +82,10 @@ font-family: Rage;
 	display:inline;
 }
 
+p {
+font-family: DancingScriptRegular;
+}
+
 .footer {
 	position: center;
 }
