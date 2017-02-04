@@ -99,7 +99,7 @@ Author     : Agata Kondzior */
 
 .header {
 	list-style:none;
-	display:inline;
+	display: inline-block;
 	font-family: "Freestyle Script";
 	color:white;
 	height:450px;
