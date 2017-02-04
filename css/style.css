@@ -49,6 +49,7 @@ Author     : Agata Kondzior */
 	text-align:left;
 	height:60px;
 	margin: 60px;
+	padding-top: 20px;
 }
 
 .logo > p {
@@ -64,7 +65,7 @@ Author     : Agata Kondzior */
 	font-family:MonotypeCorsiva;
 	color: white;
 	display: inline-block;
-	margin-left:40px;
+	margin-left: 40px;
 }
 
 .logo > ul > li {
