@@ -38,9 +38,9 @@ Author     : Agata Kondzior */
 	
 .nav_bar {
 	width:100%;
-	text-align:center;
-	height:30px;
-	margin: 20px;	
+	text-align:left;
+	height:60px;
+		
 }
 
 .logo {
