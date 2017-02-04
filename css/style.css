@@ -77,7 +77,7 @@ Author     : Agata Kondzior */
 
 .header {
 	list-style:none;
-	display:inline;
+	display:inline-block;
 	font-family: DancingScriptRegular;
 	color:white;
 }
