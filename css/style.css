@@ -54,7 +54,8 @@ Author     : Agata Kondzior */
 
 .logo > p > h5 {
 	font-family:DancingScriptRegular;
-	position: relative;
+	display: inline-block;
+	margin-left:40px;
 }
 
 .logo > ul > li {
