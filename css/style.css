@@ -57,6 +57,9 @@ and open the template in the editor.
 	font-family: Tahoma;
 }
 
+ul {
+font-family: Rage;
+}
 .header {
 	list-style:none;
 	display:inline;
