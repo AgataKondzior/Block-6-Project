@@ -70,7 +70,7 @@ Author     : Agata Kondzior */
 
 .logo > ul > li {
 	display: inline-block;
-	margin-left: 80px;
+	/*margin-left: 80px;*/
 	text-align: right;
 }
 
