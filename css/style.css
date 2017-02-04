@@ -37,11 +37,11 @@ Author     : Agata Kondzior */
 }	
 	
 .nav_bar {
-	display: inline;	
+	display: inline-block;	
 }
 
 .logo {
-	display:inline;
+	display:inline-block;
 }
 
 .logo > p {
