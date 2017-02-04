@@ -83,10 +83,12 @@ font-family: Rage;
 	display:inline;
 }
 
-.service p {
+.service_text {
 font-family: DancingScriptRegular;
 }
 
+.service_par {
+}
 .footer {
 	position: center;
 }
