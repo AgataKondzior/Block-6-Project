@@ -45,6 +45,10 @@ Author     : Agata Kondzior */
 
 .logo {
 	font-family: MonotypeCorsiva;
+	width:100%;
+	text-align:left;
+	height:60px;
+	margin: 40px;
 }
 
 .logo > p {
