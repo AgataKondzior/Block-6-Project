@@ -40,14 +40,14 @@ Author     : Agata Kondzior */
 	width:100%;
 	text-align:center;
 	height:30px;
-		
+	margin: 20px;	
 }
 
 .logo {
 }
 
 .logo > p {
-	font-family: Rage;
+	font-family: MonotypeCorsiva;
 	color: white;
 	margin-top: 0px;
 	padding-top: 10px;
@@ -55,19 +55,22 @@ Author     : Agata Kondzior */
 }
 
 .logo > h4 {
-	font-family:FreestyleScript;
+	font-family:MonotypeCorsiva;
 	color: white;
-	display: inline;
+	display: inline-block;
 	margin-left:40px;
 }
 
 .logo > ul > li {
-	display:inline;
+	font-family:MonotypeCorsiva;
+	display:inline-block;
+	margin-left: 40px;
 }
 
 .top_menu {
 	
 	display:inline-block;
+	margin-left:40px;
 	
 }
 
@@ -102,7 +105,7 @@ Author     : Agata Kondzior */
 
 .service_img {
 	list-style:none;
-	display:inline;
+	display:inline-block;
 }
 
 .service_text {
