@@ -78,6 +78,7 @@ Author     : Agata Kondzior */
 .top_menu > ul li {
 	font-family: Rage;
 	color: white;
+	word-spacing: 40px;
 	list-style: none;
 	display: inline;	
 }
