@@ -67,11 +67,14 @@ Author     : Agata Kondzior */
 	margin-left: 10px;
 }
 
-.logo > ul > li > a{
+.logo > ul > li {
 	font-family: MonotypeCorsiva;
-	text-decoration: none;
 	display: inline-block;
 	margin-left: 60px;
+}
+
+.logo > ul > li > a {
+	text-decoration: none;	
 }
 
 .top_menu {
