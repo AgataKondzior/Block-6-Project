@@ -39,9 +39,9 @@ and open the template in the editor.
 	background-color: brown;
 	background-image: url("../images/background.png");
 	height: auto;
-	width: 1650px;
+	width: 100%;
 	margin: 0 auto;
-	background-repeat:no-repeat;
+	background-repeat: no-repeat;
     	background-position: center;
 }	
 	
