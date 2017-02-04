@@ -106,6 +106,8 @@ Author     : Agata Kondzior */
 	font-family: "Freestyle Script";
 	color:white;
 	height:450px;
+	width: auto;
+	padding: 10px;
 }
 
 .main_content {
