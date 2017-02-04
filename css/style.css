@@ -41,8 +41,8 @@ and open the template in the editor.
 	height: auto;
 	width: 100%;
 	margin: 0 auto;
-	background-repeat: repeat-y;
-    	background-position: center;
+	background-repeat: no-repeat;
+    	
 }	
 	
 
