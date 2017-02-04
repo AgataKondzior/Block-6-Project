@@ -49,11 +49,14 @@ and open the template in the editor.
 
 .nav_bar {
 	display: inline;
-	list-style: none;
+	
 	
 }
 
 .logo {
+	font-family: Rage;
+	color: white;
+	display: inline;
 }
 
 .top_menu {
@@ -63,11 +66,12 @@ and open the template in the editor.
 }
 
 ul {
-font-family: Rage;
-color: white;
-list-style: none;
-	
+	font-family: Rage;
+	color: white;
+	list-style: none;
+	display: inline;	
 }
+
 .header {
 	list-style:none;
 	display:inline-block;
