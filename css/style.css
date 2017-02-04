@@ -53,6 +53,7 @@ Author     : Agata Kondzior */
 
 .logo > p > h5 {
 	font-family:DancingScriptRegular;
+	position: relative;
 }
 
 .logo > ul > li {
