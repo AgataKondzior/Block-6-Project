@@ -64,6 +64,8 @@ and open the template in the editor.
 
 ul {
 font-family: Rage;
+color: white;
+list-style: none;
 	
 }
 .header {
