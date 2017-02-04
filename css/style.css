@@ -36,6 +36,7 @@ and open the template in the editor.
 
 
 .container {
+	background: black;
 	background-image: url("images/background.png");
 	height: auto;
 	width: 1650px;
