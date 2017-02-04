@@ -39,6 +39,7 @@ Author     : Agata Kondzior */
 .nav_bar {
 	width:100%;
 	text-align:center;
+	height:30px;
 		
 }
 
@@ -84,7 +85,9 @@ Author     : Agata Kondzior */
 }
 
 .main_content {
-	background-image: url(images/background_light.png);
+	height:650px;
+	width:
+	background-image: url("../images/background_light.png");
 
 }
 
