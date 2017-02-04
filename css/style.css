@@ -89,6 +89,13 @@ and open the template in the editor.
 
 }
 
+.main_content > h3 {
+	font-family: DancingScriptRegular;
+	color: white;
+
+}
+
+
 .service_img {
 	list-style:none;
 	display:inline;
