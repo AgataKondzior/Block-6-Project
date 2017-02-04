@@ -12,38 +12,57 @@ and open the template in the editor.
 @font-face {
     font-family:DancingScriptRegular;
     src:url:("../fonts/DancingScriptRegular.eot");
+}
     
 @font-face {
-    font-family:ASENINE_0;
+    font-family:Asenine_0;
     src:url:("../fonts/ASENINE_0.ttf");
+}
     
 @font-face {
-    font-family:GOTHIC_0;
+    font-family:Gothic_0;
     src:url:("../fonts/GOTHIC_0.ttf");
+}
     
 @font-face {
-    font-family:RAGE;
+    font-family:Rage;
     src:url:("../fonts/RAGE.ttf");
+}
     
 @font-face {
-    font-family:arial;
+    font-family:Arial;
     src:url:("../fonts/arrial.ttf");
+}
 
 
-	.container {
+.container {
 	background-image: url("images/background.png");
-} 
+}	
+	
 
-    .nav_bar {
+
+.nav_bar {
+	position: left;
+	top:0;
+	display: inline;
+	
 }
 
 .logo {
 }
 
 .top_menu {
+	list-style:none;
+	display:inline;
+	font-family: Tahoma;
 }
 
-.Header {
+ul {
+font-family: Rage;
+}
+.header {
+	list-style:none;
+	display:inline;
 }
 
 .main_content {
@@ -52,9 +71,12 @@ and open the template in the editor.
 }
 
 .service {
+	list-style:none;
+	display:inline;
 }
 
 .footer {
+	position: center;
 }
 	
 
