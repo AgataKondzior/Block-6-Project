@@ -67,9 +67,9 @@ Author     : Agata Kondzior */
 	margin-left: 10px;
 }
 
-.logo > ul > li {
-	font-family:MonotypeCorsiva;
-	text-decoration:none;
+.logo > ul > li > a{
+	font-family: MonotypeCorsiva;
+	text-decoration: none;
 	display: inline-block;
 	margin-left: 60px;
 }
