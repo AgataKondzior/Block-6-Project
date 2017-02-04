@@ -40,10 +40,13 @@ Author     : Agata Kondzior */
 	display: inline;	
 }
 
+.logo {
+	display:inline;
+}
+
 .logo > p {
 	font-family: Rage;
 	color: white;
-	display: inline;
 	margin-top: 50px;
 	padding-top: 20px;
 }
