@@ -55,7 +55,8 @@ Author     : Agata Kondzior */
 }
 
 .logo > p > h4 {
-	font-family:DancingScriptRegular;
+	font-family:FreestyleScript;
+	color: white;
 	display: inline;
 	margin-left:40px;
 }
@@ -80,7 +81,7 @@ Author     : Agata Kondzior */
 .header {
 	list-style:none;
 	display:inline;
-	font-family: DancingScriptRegular;
+	font-family: FreestyleScript;
 	color:white;
 }
 
