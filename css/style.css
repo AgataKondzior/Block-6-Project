@@ -69,16 +69,15 @@ Author     : Agata Kondzior */
 }
 
 .logo > ul > li {
-	font-family: Rage;
-	color: #bf8040;
 	display: inline-block;
 	margin-left: 80px;
 	text-align: right;
 }
 
 .top_menu > ul > li > a {
+	font-family: Rage;
 	text-decoration: none;
-	color: white;
+	color: #bf8040;
 	margin: 30px;
 	
 }
