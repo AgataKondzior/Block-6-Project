@@ -85,6 +85,11 @@ Author     : Agata Kondzior */
 .top_menu > ul > li > a:hover {
 }
 
+.top_menu > ul > li > a.current, .top_menu > ul > li > a.current:hover {
+        color: white;
+	cursor: default;
+	
+}
 .top_menu {
 	
 	display:inline-block;
