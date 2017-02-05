@@ -104,7 +104,7 @@ div.header {
 	font-family: Rage;
 	color: white;
 	list-style:none;
-	
+	display: inline;
 	height:360px;
 	width: auto;
 	padding: 10px;
