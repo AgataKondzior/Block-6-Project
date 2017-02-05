@@ -106,11 +106,14 @@ Author     : Agata Kondzior */
 	list-style:none;
 	display: inline-block;
 	
-	height:450px;
+	height:360px;
 	width: auto;
 	padding: 10px;
 }
 
+.header_container {
+	
+}
 .header > img {
 	
 	
