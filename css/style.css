@@ -102,7 +102,7 @@ Author     : Agata Kondzior */
 
 .header {
 	list-style:none;
-	
+	display: inline-block;
 	
 	height:450px;
 	width: auto;
@@ -110,7 +110,7 @@ Author     : Agata Kondzior */
 }
 
 .header > img {
-	display: inline-block;
+	display: inline;
 	
 }
 
