@@ -111,12 +111,16 @@ Author     : Agata Kondzior */
 	list-style:none;
 	display: inline;
 	height:360px;
-	width: auto;
+	width: 600px;
 	float: left;
 	padding: 10px;
+	margin: 10px
+		
 	
 }
-
+.header:last child {
+	margin: 0
+}
 
 }
 .header > img {
