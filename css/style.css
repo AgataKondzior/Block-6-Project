@@ -102,17 +102,21 @@ Author     : Agata Kondzior */
 
 .header {
 	list-style:none;
-	display: inline;
-	font-family: "Freestyle Script";
-	color:white;
+	
+	
 	height:450px;
 	width: auto;
 	padding: 10px;
 }
 
 .header > img {
-	display: inline;
+	display: inline-block;
 	
+}
+
+.header > p }
+	font-family: "Freestyle Script";
+	color:white;	
 }
 
 .main_content {
