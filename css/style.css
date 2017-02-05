@@ -104,18 +104,17 @@ Author     : Agata Kondzior */
 	font-family: Rage;
 	color: white;
 	list-style:none;
-	display: inline;
+	display: inline-block;
 	height:360px;
 	width: auto;
-	border: 1px solid white;
+	
 	padding: 10px;
 }
 
 
 }
 .header > img {
-	display: inline;
-	float:left;
+	
 	
 	
 }
