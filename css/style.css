@@ -29,7 +29,7 @@ Author     : Agata Kondzior */
 .container {
 	
 	background-image: url("../images/background.png");
-	height: auto;
+	height: 100%;
 	width: 100%;
 	margin: 0 auto;
 	background-repeat: no-repeat;
@@ -68,10 +68,24 @@ Author     : Agata Kondzior */
 	margin-left: 10px;
 }
 
-.logo > ul > li {
+/*.logo > ul > li {
 	display: inline-block;
-	/*margin-left: 80px;*/
+	/*margin-left: 80px;
 	text-align: right;
+}*/
+
+.top_menu {
+	
+	display:inline-block;
+	margin-left:10px;	
+}
+
+.top_menu > ul li {
+	font-family: Rage;
+	color: white;
+	line-height: 40px;
+	list-style: none;
+	display: inline;	
 }
 
 .top_menu > ul > li > a {
@@ -90,20 +104,9 @@ Author     : Agata Kondzior */
 	cursor: default;
 	
 }
-.top_menu {
-	
-	display:inline-block;
-	margin-left:10px;
-	
-}
 
-.top_menu > ul li {
-	font-family: Rage;
-	color: white;
-	line-height: 40px;
-	list-style: none;
-	display: inline;	
-}
+
+
 
 .header {
 	font-family: Rage;
