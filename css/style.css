@@ -86,7 +86,7 @@ Author     : Agata Kondzior */
 }
 
 .top_menu > ul > li > a.current, .top_menu > ul > li > a.current:hover {
-        background: white;
+        
 	cursor: default;
 	
 }
