@@ -104,7 +104,7 @@ Author     : Agata Kondzior */
 	font-family: Rage;
 	color: white;
 	list-style:none;
-	display: inline-block;
+	display: inline;
 	height:360px;
 	width: auto;
 	float: left;
