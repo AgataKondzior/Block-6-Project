@@ -100,11 +100,10 @@ Author     : Agata Kondzior */
 	display: inline;	
 }
 
-.header {
+div.header {
 	font-family: Rage;
 	color: white;
 	list-style:none;
-	display: inline-block;
 	
 	height:360px;
 	width: auto;
@@ -112,7 +111,7 @@ Author     : Agata Kondzior */
 }
 
 .header_container {
-	
+	display: inline-block;	
 }
 .header > img {
 	
