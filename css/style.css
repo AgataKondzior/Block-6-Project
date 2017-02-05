@@ -100,7 +100,7 @@ Author     : Agata Kondzior */
 	display: inline;	
 }
 
-div.header {
+.header {
 	font-family: Rage;
 	color: white;
 	list-style:none;
