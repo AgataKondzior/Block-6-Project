@@ -135,7 +135,7 @@ Author     : Agata Kondzior */
 
 .main_content {
 	height:650px;
-	width:
+	width: 650px;
 	background-image: url("../images/background_light.png");
 
 }
@@ -150,7 +150,7 @@ Author     : Agata Kondzior */
 
 .service_img {
 	list-style:none;
-	display:inline-block;
+	display:inline;
 }
 
 .service_text {
