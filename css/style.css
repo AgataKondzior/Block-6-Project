@@ -78,8 +78,8 @@ Author     : Agata Kondzior */
 .top_menu {
 	
 	display:inline-block;
-	margin-left:40px;
-	margin-right: 0px;
+	margin-left:0px;
+	margin-right: 40px;
 	margin-top: 10px;
 	float: right;
 }
