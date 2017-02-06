@@ -176,6 +176,7 @@ Author     : Agata Kondzior */
 	width: 650px;
 	background-image: url("../images/background_light.png");
 	float: left;
+	display: inline-block;
 }
 
 .main_content > h3 {
