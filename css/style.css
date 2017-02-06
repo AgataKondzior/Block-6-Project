@@ -176,7 +176,7 @@ Author     : Agata Kondzior */
 	float:left;
 	position: relative;
 	bottom: 15px;
-	display:inline-block;
+	/*display:inline-block;*/
 }
 .opis_3 {
 position:absolute;
@@ -188,8 +188,8 @@ position:absolute;
 	width: 150px;
 	margin: 0px;
 	position: relative;
-	/*padding: 20px,10px,20px,10px;*/
-	display: inline-block;
+	/*padding: 20px,10px,20px,10px;
+	display: inline-block;*/
 }
 
 .opis_4 {
@@ -204,7 +204,7 @@ position:absolute;
 	float:right;
 	margin-left: 0px;
 	position: relative;
-	display: inline-block;
+	/*display: inline-block;*/
 	
 }
 
