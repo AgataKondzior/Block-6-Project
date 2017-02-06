@@ -109,7 +109,7 @@ Author     : Agata Kondzior */
         cursor: default;	
 }
 
-.header {
+/*.header {
 	font-family: Rage;
 	color: white;
 	list-style:none;
@@ -123,7 +123,7 @@ Author     : Agata Kondzior */
 	
 	/*padding: 10px;
 	margin: 10px*/		
-}
+/*}
 
 .img_1 { 
 	float:left;
@@ -131,7 +131,7 @@ Author     : Agata Kondzior */
 	margin: 150px;
 	padding: 20px,10px,20px,10px;
 	/*margin-right: 0px;*/
-	display: inline-block;	
+/*	display: inline-block;	
 }
 
 .img_1_1 {
@@ -146,19 +146,19 @@ Author     : Agata Kondzior */
 	position: relative;
 	margin: 0px;
 	/*padding: 20px,10px,20px,10px;*/
-	display: inline-block;
+	/*display: inline-block;
 }
 
-.opis_2 {
+/*.opis_2 {
 	position:absolute;
-}
-.img_3 { 
+}*/
+/*.img_3 { 
 	float:left;
 	width: 150px;
 	margin: 0px;
 	position: relative;
 	/*padding: 20px,10px,20px,10px;*/
-	display: inline-block;
+	/*display: inline-block;
 }
 
 
@@ -169,7 +169,7 @@ Author     : Agata Kondzior */
 	margin: 0px;
 	position: relative;
 	/*padding: 20px,10px,20px,10px;*/
-	display: inline-block;
+	/*display: inline-block;
 }
 
 
@@ -206,7 +206,7 @@ Author     : Agata Kondzior */
 	background-image: url("../images/background_light.png");
 	
 	/*display: inline-block;*/
-}
+/*}
 
 .main_content > h3 {
 	font-family: "Mistral";
