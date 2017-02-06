@@ -128,7 +128,7 @@ Author     : Agata Kondzior */
 .img_1 { 
 	float:left;
 	position: relative;
-	margin: 80px;
+	margin: 130px;
 	padding: 20px,10px,20px,10px;
 	/*margin-right: 0px;*/
 	display: inline-block;
@@ -139,7 +139,7 @@ Author     : Agata Kondzior */
 	float:left;
 	width: 150px;
 	position: relative;
-	margin-left: 10px;
+	margin: 0px;
 	/*padding: 20px,10px,20px,10px;*/
 	display: inline-block;
 }
@@ -147,7 +147,7 @@ Author     : Agata Kondzior */
 .img_3 { 
 	float:left;
 	width: 150px;
-	margin-left: 10px;
+	margin: 0px;
 	position: relative;
 	/*padding: 20px,10px,20px,10px;*/
 	display: inline-block;
@@ -158,7 +158,7 @@ Author     : Agata Kondzior */
 .img_4 { 
 	float:left;
 	width: 150px;
-	margin-left: 10px;
+	margin: 0px;
 	position: relative;
 	/*padding: 20px,10px,20px,10px;*/
 	display: inline-block;
