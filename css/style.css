@@ -114,6 +114,7 @@ Author     : Agata Kondzior */
 	height:360px;
 	width: 600px;*/
 	float: left;
+	position: relative;
 	/*padding: 10px;
 	margin: 10px*/		
 }
@@ -134,13 +135,6 @@ Author     : Agata Kondzior */
 	padding-left: 0px;	
 }
 
-/*.img_2 > img{
-	z-index:1;
-}
-.img_2 > img > p { 
-z-index:2;}*/
-
-
 .img_3 { 
 	float:left;
 	margin-left: 0px;
@@ -160,7 +154,7 @@ z-index:2;}*/
 
 .img_5 { 
 	float:left;
-	margin: 0px;
+	margin-left: 0px;
 	
 }
 
