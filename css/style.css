@@ -136,11 +136,9 @@ Author     : Agata Kondzior */
 
 .img_1_1 {
 	float:left;
-	position:absolute;
+	position:absolute, left;
 }
 
-.opis_2 {
-	position:absolute;
 }
 .img_2 { 
 	float:left;
@@ -151,6 +149,9 @@ Author     : Agata Kondzior */
 	display: inline-block;
 }
 
+.opis_2 {
+	position:absolute;
+}
 .img_3 { 
 	float:left;
 	width: 150px;
