@@ -167,7 +167,7 @@ Author     : Agata Kondzior */
 	display: inline-block;
 }
 
-
+.opis_3 {}
 }
 .img_4 { 
 	float:right;
@@ -178,6 +178,7 @@ Author     : Agata Kondzior */
 	display: inline-block;
 }
 
+.opis_4 {}
 
 .layer {
 	
@@ -190,6 +191,8 @@ Author     : Agata Kondzior */
 	display: inline-block;
 	
 }
+
+.img_5_5 { }
 
 .header:last child {
 	margin: 0
