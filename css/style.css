@@ -93,9 +93,7 @@ Author     : Agata Kondzior */
 	font-family: "Helvetica Narrow";
 	text-decoration: none;
 	color: #bf8040;
-	margin: 30px;
-	float: right;
-	
+	margin: 30px;	
 }
 
 .top_menu > ul > li > a:hover {
