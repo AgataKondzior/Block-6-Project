@@ -111,11 +111,10 @@ Author     : Agata Kondzior */
 
 .header {
 	display: inline-block;
-	
+	color: white;
 }
 
-.img_1 {
-	position: relative top:50px;
+
 /*.header {
 	font-family: Rage;
 	color: white;
