@@ -128,7 +128,7 @@ Author     : Agata Kondzior */
 
 .img_2 { 
 	float:left;
-	position: relative;
+	/*position: relative;*/
 	margin-left: 30px;
 }
 
