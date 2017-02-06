@@ -140,8 +140,13 @@ Author     : Agata Kondzior */
 	float:left;
 }
 
+
 .layer {
 	position:center;
+}
+
+.img_5{ 
+	float:left;
 }
 
 .header:last child {
