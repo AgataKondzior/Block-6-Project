@@ -116,12 +116,12 @@ Author     : Agata Kondzior */
 	float: left;
 	/*padding: 10px;
 	margin: 10px*/	
-	position: relative;
+	
 }
 
 .img_1 { 
 	float:left;
-	position: relative;
+	position: fixed;
 }
 
 .img_2 { 
