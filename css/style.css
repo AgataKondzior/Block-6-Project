@@ -114,9 +114,23 @@ Author     : Agata Kondzior */
 	width: 600px;*/
 	float: left;
 	/*padding: 10px;
-	margin: 10px*/
-		
-	
+	margin: 10px*/	
+}
+
+.img_1 { 
+	float:left;
+}
+
+.img_2 { 
+	float:left;
+}
+
+.img_3 { 
+	float:left;
+}
+
+.img_4 { 
+	float:left;
 }
 .header:last child {
 	margin: 0
