@@ -139,6 +139,11 @@ Author     : Agata Kondzior */
 .img_4 { 
 	float:left;
 }
+
+.layer {
+	position:center;
+}
+
 .header:last child {
 	margin: 0
 }
