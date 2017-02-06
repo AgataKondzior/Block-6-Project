@@ -128,8 +128,8 @@ Author     : Agata Kondzior */
 .img_1 { 
 	float:left;
 	position: relative;
-	margin: 150px;
-	padding: 20px,10px,20px,10px;
+	margin: 210px;
+	padding: 20px,10px,20px,0px;
 	/*margin-right: 0px;*/
 	display: inline-block;	
 }
