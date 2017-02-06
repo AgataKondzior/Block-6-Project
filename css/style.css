@@ -109,7 +109,7 @@ Author     : Agata Kondzior */
         cursor: default;	
 }
 
-.header {
+div.header {
 	font-family: Rage;
 	color: white;
 	list-style:none;
