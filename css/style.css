@@ -119,10 +119,12 @@ Author     : Agata Kondzior */
 
 .img_1 { 
 	float:left;
+	position: fixed;
 }
 
 .img_2 { 
 	float:left;
+	position: relative;
 }
 
 .img_3 { 
