@@ -160,9 +160,10 @@ z-index:2;}*/
 	position:center;
 }
 
-.img_5{ 
+.img_5 { 
 	float:left;
 	margin: 0px;
+	display: in-line;
 }
 
 .header:last child {
