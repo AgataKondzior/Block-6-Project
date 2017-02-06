@@ -132,7 +132,6 @@ Author     : Agata Kondzior */
 .img_2 { 
 	float:left;
 	position: relative;
-	margin-left: 30px;
 	margin-left: 0px;
 	padding-left: 0px;
 	
@@ -142,6 +141,7 @@ Author     : Agata Kondzior */
 	float:left;
 	margin-left: 0px;
 	position: relative;
+	padding-left: 0px;
 }
 
 
@@ -150,6 +150,7 @@ Author     : Agata Kondzior */
 	float:left;
 	margin-left: 0px;
 	position: relative;
+	padding-left: 0px;
 }
 
 
