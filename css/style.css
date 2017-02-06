@@ -101,13 +101,12 @@ Author     : Agata Kondzior */
 }
 
 .top_menu > ul > li > a:hover {
+	color:white;
 }
 
-/*.top_menu > ul > li > a.current, .top_menu > ul > li > a.current:hover {
-        
-	cursor: default;
-	
-}*/
+/.top_menu > ul > li > a.current, .top_menu > ul > li > a.current:hover {
+        cursor: default;	
+}
 
 .header {
 	font-family: Rage;
