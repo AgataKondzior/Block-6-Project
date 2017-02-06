@@ -146,19 +146,19 @@ Author     : Agata Kondzior */
 	position: relative;
 	margin: 0px;
 	/*padding: 20px,10px,20px,10px;*/
-	/*display: inline-block;
+	display: inline-block;
 }
 
 /*.opis_2 {
 	position:absolute;
 }*/
-/*.img_3 { 
+.img_3 { 
 	float:left;
 	width: 150px;
 	margin: 0px;
 	position: relative;
 	/*padding: 20px,10px,20px,10px;*/
-	/*display: inline-block;
+	display: inline-block;
 }
 
 
