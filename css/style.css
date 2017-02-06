@@ -122,7 +122,8 @@ Author     : Agata Kondzior */
 
 .img_1 { 
 	float:left;
-	position:relative;
+	width: 150px;
+	position: relative;
 	margin: 20px;
 	padding: 20px,10px,20px,10px;
 	margin-right: 0px;
