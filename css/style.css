@@ -10,11 +10,11 @@ Author     : Agata Kondzior */
     src:url("../fonts/DancingScriptRegular.eot");
 }    
 @font-face {
-    font-family:Asenine_0;
+    font-family:ASENINE_0;
     src:url("../fonts/ASENINE_0.ttf");
 }    
 @font-face {
-    font-family:Gothic_0;
+    font-family:GOTHIC_0;
     src:url("../fonts/GOTHIC_0.ttf");
 }    
 @font-face {
@@ -45,7 +45,7 @@ Author     : Agata Kondzior */
 }
 
 .logo {
-	font-family: "Gothic_0";
+	font-family: "GOTHIC_0";
 	width:100%;
 	text-align:left;
 	height:60px;
@@ -53,7 +53,7 @@ Author     : Agata Kondzior */
 }
 
 .logo > p {
-	font-family: "MS Gothic";
+	font-family: "Gothic_0";
 	font-size:30px;
 	color: #bf8040;
 	margin-top: 0px;
@@ -76,7 +76,7 @@ Author     : Agata Kondzior */
 }*/
 
 .top_menu {
-	font-family: "MS Gothic";
+	font-family: "GOTHIC_0";
 	font-size: 18px;
 	display:inline-block;
 	margin-left: 150px;
