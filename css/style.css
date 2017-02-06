@@ -109,6 +109,10 @@ Author     : Agata Kondzior */
         cursor: default;	
 }
 
+.header {
+	display: inline-block;
+	
+}
 /*.header {
 	font-family: Rage;
 	color: white;
