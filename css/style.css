@@ -120,7 +120,7 @@ Author     : Agata Kondzior */
 
 .img_1 { 
 	float:left;
-	position: fixed;
+	position: relative;
 }
 
 .img_2 { 
