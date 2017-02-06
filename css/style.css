@@ -152,9 +152,10 @@ Author     : Agata Kondzior */
 	display: inline-block;
 }
 
-/*.opis_2 {
+.opis_2 {
 	position:absolute;
-}*/
+	bottom: 40px;
+}
 .img_3 { 
 	float:left;
 	width: 150px;
