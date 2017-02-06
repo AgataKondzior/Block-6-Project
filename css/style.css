@@ -62,7 +62,7 @@ Author     : Agata Kondzior */
 }
 
 .logo > h4 {
-	font-family: "Mistral";
+	font-family: "DancingScriptRegular", "Mistral";
 	color: white;
 	font-size: 20px;
 	display: inline-block;
@@ -215,7 +215,7 @@ Author     : Agata Kondzior */
 }
 
 .service_text {
-font-family: "Dancing Script Regular";
+font-family: "DancingScriptRegular";
 }
 
 .service_par {
