@@ -166,13 +166,16 @@ Author     : Agata Kondzior */
 	float:left;
 	width: 150px;
 	margin-top: 0px;
-	position: relative;
-	bottom: 15px;
+	
 	left: 150px;
 	/*padding: 20px,10px,20px,10px;*/
 	display: inline-block;
 }
 
+.cake1 { 
+	position: relative;
+	bottom: 15px;
+}
 .opis_3 {
 position:absolute;
 }
