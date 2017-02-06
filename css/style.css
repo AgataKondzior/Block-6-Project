@@ -45,7 +45,7 @@ Author     : Agata Kondzior */
 }
 
 .logo {
-	font-family: "Helvetica Narrow";
+	font-family: "MS Gothic";
 	width:100%;
 	text-align:left;
 	height:60px;
@@ -53,7 +53,7 @@ Author     : Agata Kondzior */
 }
 
 .logo > p {
-	font-family: "Helvetica Narrow";
+	font-family: "MS Gothic";
 	font-size:30px;
 	color: #bf8040;
 	margin-top: 0px;
@@ -76,7 +76,7 @@ Author     : Agata Kondzior */
 }*/
 
 .top_menu {
-	font-family: "Helvetica Narrow";
+	font-family: "MS Gothic";
 	font-size: 18px;
 	display:inline-block;
 	margin-left:0px;
@@ -86,7 +86,7 @@ Author     : Agata Kondzior */
 }
 
 .top_menu > ul > li {
-	font-family: "Helvetica Narrow";
+	font-family: "MS Gothic";
 	color: white;
 	line-height: 40px;
 	list-style: none;
@@ -94,7 +94,7 @@ Author     : Agata Kondzior */
 }
 
 .top_menu > ul > li > a {
-	font-family: "Helvetica Narrow";
+	font-family: "MS Gothic";
 	text-decoration: none;
 	color: #bf8040;
 	margin-top: 30px;
