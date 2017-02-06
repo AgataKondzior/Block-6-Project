@@ -128,7 +128,7 @@ Author     : Agata Kondzior */
 .img_1 { 
 	float:left;
 	position: relative;
-	margin: 0px;
+	margin: 10px;
 	padding: 180px,10px,20px,0px;
 	/*margin-right: 0px;*/
 	display: inline-block;	
@@ -136,7 +136,7 @@ Author     : Agata Kondzior */
 
 .img_1_1 {
 	position:absolute;
-	top: 180px;
+	top: 200px;
 	float:left;
 	
 }
