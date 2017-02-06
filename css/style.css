@@ -133,18 +133,22 @@ Author     : Agata Kondzior */
 	/*position: relative;*/
 	/*margin-left: 30px;*/
 	margin-left: 0px;
-	padding-left: 0px;
+	padding-left: 0px;	
+}
+
+.img_2 > img{
 	z-index:1;
 }
+.img_2 > img > p { 
+z-index:2;}
+
 
 .img_3 { 
 	float:left;
 	margin-left: 0px;
 }
 
-.description_1 > p {
-	z-index:2;
-	margin-top:0;
+
 }
 .img_4 { 
 	float:left;
