@@ -38,7 +38,7 @@ Author     : Agata Kondzior */
 }	
 	
 .nav_bar {
-	width:100%;
+	width:auto;
 	/*text-align:left;*/
 	height:60px;
 	margin: 0px;		
