@@ -142,7 +142,7 @@ Author     : Agata Kondzior */
 	margin-left: 0px;
 }
 
-.description_1 {
+.description_1 > p {
 	z-index:2;
 	margin-top:0;
 }
