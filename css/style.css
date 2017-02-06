@@ -169,7 +169,7 @@ Author     : Agata Kondzior */
 	margin: 0px;
 	position: relative;
 	/*padding: 20px,10px,20px,10px;*/
-	/*display: inline-block;
+	display: inline-block;
 }
 
 
@@ -206,7 +206,7 @@ Author     : Agata Kondzior */
 	background-image: url("../images/background_light.png");
 	
 	/*display: inline-block;*/
-/*}
+}
 
 .main_content > h3 {
 	font-family: "Mistral";
