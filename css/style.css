@@ -115,9 +115,7 @@ Author     : Agata Kondzior */
 	width: 600px;*/
 	float: left;
 	/*padding: 10px;
-	margin: 10px*/	
-	
-	
+	margin: 10px*/		
 }
 
 .img_1 { 
@@ -185,8 +183,8 @@ z-index:2;}*/
 	height:650px;
 	width: 650px;
 	background-image: url("../images/background_light.png");
-	float: left;
-	display: inline-block;
+	/*float: left;
+	display: inline-block;*/
 }
 
 .main_content > h3 {
