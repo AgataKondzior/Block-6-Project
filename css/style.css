@@ -163,7 +163,7 @@ Author     : Agata Kondzior */
 	left: 160px;
 }
 .img_3 { 
-	float:left;
+	
 	width: 150px;
 	margin-top: 0px;
 	
@@ -173,6 +173,7 @@ Author     : Agata Kondzior */
 }
 
 .cake1 { 
+	float:left;
 	position: relative;
 	bottom: 15px;
 }
