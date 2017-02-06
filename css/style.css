@@ -112,7 +112,7 @@ Author     : Agata Kondzior */
 	font-family: Rage;
 	color: white;
 	list-style:none;
-	display: inline;
+	/*display: inline;*/
 	height:360px;
 	width: 600px;
 	float: left;
