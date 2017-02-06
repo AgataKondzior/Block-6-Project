@@ -123,7 +123,7 @@ Author     : Agata Kondzior */
 	float:left;
 	position: fixed;
 	margin: 20px;
-	padding: 20px;
+	padding: 20px,10px,20px,10px;
 }
 
 .img_2 { 
