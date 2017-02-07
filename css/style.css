@@ -148,7 +148,7 @@ Author     : Agata Kondzior */
 	height:650px;
 	width: auto;
 	background-image: url("../images/background_light.png");
-	
+	background-repeat: no-repeat;
 	/*display: inline-block;*/
 }
 
