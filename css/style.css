@@ -125,6 +125,11 @@ Author     : Agata Kondzior */
 	position: absolute;	
 }
 
+.opis > ul > li {
+	text-decoration: none;
+
+}
+
 .main_content {
 	height:650px;
 	width: 650px;
