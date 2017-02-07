@@ -120,7 +120,7 @@ Author     : Agata Kondzior */
 
 .picture {float: left;
 	position: relative;
-	margin-top: 50px;
+	
 }
 
 .picture_nav1 {
@@ -166,7 +166,8 @@ Author     : Agata Kondzior */
 }
 
 .service_text {
-font-family: "DancingScriptRegular";
+	font-family: "DancingScriptRegular";
+	color: white;
 }
 
 .service_par {
