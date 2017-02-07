@@ -130,10 +130,11 @@ Author     : Agata Kondzior */
 		position: absolute;
 }
 
-.opis {float: left;
+.opis {
+	float: left;
 	position: absolute;
 	list-style: none;
-	display: inline;
+	display: inline-block;
 }
 
 .opis > ul > li {
