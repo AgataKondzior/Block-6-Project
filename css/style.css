@@ -126,7 +126,8 @@ Author     : Agata Kondzior */
 }
 
 .opis > ul > li {
-	
+	list-style: none;
+	display: inline-block;	
 
 }
 
