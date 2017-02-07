@@ -118,9 +118,9 @@ Author     : Agata Kondzior */
 }
 
 .opis {
-	position: absolute;
+	/*position: absolute;
 	list-style: none;
-	display: inline-block;
+	display: inline-block;*/
 	
 }
 
@@ -148,7 +148,7 @@ Author     : Agata Kondzior */
 
 
 .service_img {
-	list-style:none;
+	
 	display:inline;
 }
 
