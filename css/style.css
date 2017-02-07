@@ -131,7 +131,7 @@ Author     : Agata Kondzior */
 }
 
 .opis {
-	float: left;
+	/*float: left;*/
 	position: absolute;
 	list-style: none;
 	display: inline-block;
