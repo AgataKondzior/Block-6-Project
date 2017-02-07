@@ -122,7 +122,9 @@ Author     : Agata Kondzior */
 }
 
 .opis {float: left;
-	position: absolute;	
+	position: absolute;
+	list-style: none;
+	display: inline;
 }
 
 .opis > ul > li {
