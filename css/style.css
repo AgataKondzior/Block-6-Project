@@ -155,8 +155,9 @@ Author     : Agata Kondzior */
 
 .service_img {
 	
-	display:inline;
+	display: inline;
 	margin-right: 40px;
+	margin-left: 40px;
 }
 
 .service_text {
