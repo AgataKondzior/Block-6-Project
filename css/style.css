@@ -115,6 +115,7 @@ Author     : Agata Kondzior */
 	list-style:none;
 	display:inline-block;
 	width: auto;
+	margin-top: 50px;
 }
 
 .picture {float: left;
