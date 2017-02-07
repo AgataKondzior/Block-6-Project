@@ -123,13 +123,13 @@ Author     : Agata Kondzior */
 	/*position: absolute;
 	list-style: none;
 	display: inline-block;*/
-	
+	position: absolute;
 }
 
 .opis > ul > li {
 	list-style: none;
 	display: inline-block;
-	position: absolute;
+	
 
 }
 
