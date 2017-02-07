@@ -112,7 +112,8 @@ Author     : Agata Kondzior */
 	margin-top: 50px;
 }
 
-.picture {float: left;
+.picture {
+	float: left;
 	position: relative;
 	
 }
