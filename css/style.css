@@ -131,6 +131,10 @@ Author     : Agata Kondzior */
 
 }
 
+.layer {
+	position: absolute;
+}
+
 .main_content {
 	height:650px;
 	width: auto;
