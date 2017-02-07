@@ -121,6 +121,15 @@ Author     : Agata Kondzior */
 	position: relative;	
 }
 
+.picture_nav1 {
+	position: relative;
+
+}
+
+.picture_nav2 {
+		position: absolute;
+}
+
 .opis {float: left;
 	position: absolute;
 	list-style: none;
