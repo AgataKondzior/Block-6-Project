@@ -155,6 +155,8 @@ Author     : Agata Kondzior */
 .service_text {
 	font-family: "DancingScriptRegular";
 	color: white;
+	list-style: none;
+	display: inline-block;
 }
 
 .service_par {
