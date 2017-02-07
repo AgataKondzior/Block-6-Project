@@ -69,12 +69,6 @@ Author     : Agata Kondzior */
 	margin-left: 20px;
 }
 
-/*.logo > ul > li {
-	display: inline-block;
-	/*margin-left: 80px;
-	text-align: right;
-}*/
-
 .top_menu {
 	font-family: "GOTHIC_0";
 	font-size: 18px;
@@ -123,20 +117,11 @@ Author     : Agata Kondzior */
 	
 }
 
-.picture_nav1 {
-	position: relative;
-
-}
-
-.picture_nav2 {
-		position: absolute;
-}
-
 .opis {
-	/*float: left;*/
 	position: absolute;
 	list-style: none;
 	display: inline-block;
+	
 }
 
 .opis > ul > li {
@@ -150,6 +135,8 @@ Author     : Agata Kondzior */
 	background-image: url("../images/background_light.png");
 	background-repeat: no-repeat;
 	/*display: inline-block;*/
+	font-family:"DancingScriptRegular";
+	color: white;
 }
 
 .main_content > h3 {
