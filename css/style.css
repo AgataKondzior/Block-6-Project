@@ -142,6 +142,10 @@ Author     : Agata Kondzior */
 }
 
 .service_header {
+	
+}
+
+.service_header > h3 {
 	font-family: ASENINE_0, sans-serif;
 	color: white;
 }
