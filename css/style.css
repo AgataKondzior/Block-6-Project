@@ -115,18 +115,25 @@ Author     : Agata Kondzior */
 	list-style:none;
 	display:inline-block;
 	width: 1550px;
-	margin-top: 50px;
+	margin-top: 150px;
 }
 
 
 .navigation_left {
 	float: left;
+	margin-top: 150px;
 }
 
 .header_image1 {
+	
 }
 
 .header_text1 {
+	font-family: "Mistral";
+	font-size: 30px;
+	position: relative;
+	margin-top: 250px;
+	margin-left:130px;
 }
 
 .layer {
