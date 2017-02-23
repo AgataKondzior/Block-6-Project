@@ -46,7 +46,7 @@ Author     : Agata Kondzior */
 }	
 	
 .nav_bar {
-	width:auto;
+	width:1550px;
 	/*text-align:left;*/
 	height:40px;
 	margin: 0px;		
@@ -114,7 +114,7 @@ Author     : Agata Kondzior */
 	color: white;
 	list-style:none;
 	display:inline-block;
-	width: auto;
+	width: 1550px;
 	margin-top: 50px;
 }
 
