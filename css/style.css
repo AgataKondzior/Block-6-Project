@@ -26,6 +26,14 @@ Author     : Agata Kondzior */
     src:url("fonts/arrial.ttf");
 }
 
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
 .container {
 	
 	background-image: url("../images/background.png");
