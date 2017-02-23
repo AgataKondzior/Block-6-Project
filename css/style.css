@@ -125,6 +125,11 @@ Author     : Agata Kondzior */
 	
 }
 
+.header_image > img {
+	margin-right: -45px;
+}
+
+
 .header_text {
 	font-family: "Mistral";
 	font-size: 30px;
