@@ -7,23 +7,23 @@ Author     : Agata Kondzior */
 
 @font-face {
     font-family:DancingScriptRegular;
-    src:url("../fonts/DancingScriptRegular.eot");
+    src:url("fonts/DancingScriptRegular.eot");
 }    
 @font-face {
     font-family:ASENINE_0;
-    src:url("../fonts/ASENINE_0.ttf");
+    src:url("fonts/ASENINE_0.ttf");
 }    
 @font-face {
     font-family:GOTHIC_0;
-    src:url("../fonts/GOTHIC_0.ttf");
+    src:url("fonts/GOTHIC_0.ttf");
 }    
 @font-face {
     font-family:Rage;
-    src:url("../fonts/RAGE.ttf");
+    src:url("fonts/RAGE.ttf");
 }   
 @font-face {
     font-family:Arial;
-    src:url("../fonts/arrial.ttf");
+    src:url("fonts/arrial.ttf");
 }
 
 .container {
@@ -112,68 +112,41 @@ Author     : Agata Kondzior */
 	margin-top: 50px;
 }
 
-.picture {
+
+.navigation_left {
 	float: left;
-	position: relative;
-	margin-right: 40px;
-	
 }
 
-.opis {
-	/*position: absolute;
-	list-style: none;
-	display: inline-block;*/
-	position: absolute;
+.header_image {
 }
 
-.opis > ul > li {
-	list-style: none;
-	display: inline-block;
-	
-
+.header_text {
 }
 
 .layer {
-	position: absolute;
+}
+
+.navigation_right {
+	float:right;
 }
 
 .main_content {
-	height:650px;
-	width: auto;
-	background-image: url("../images/background_light.png");
-	background-repeat: no-repeat;
-	/*display: inline-block;*/
-	font-family:"DancingScriptRegular";
-	color: white;
 }
 
-.main_content > h3 {
-	font-family: "Mistral";
-	font-size: 25px;
-	color: white;
-
+.service.header {
 }
 
-
-/*.service_img {
-	
-	display: inline;
-	margin-right: 40px;
-	margin-left: 40px;
+.content_image {
 }
 
-.service_text {
-	font-family: "DancingScriptRegular";
-	color: white;
-	list-style: none;
-	display: inline-block;
-}*/
+.content_text {
+}
 
 .service_par {
 }
-.footer {
-	position: center;
+
+.par_img {
 }
-	
 
-
+.footer {
+}
